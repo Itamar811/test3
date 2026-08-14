@@ -1,1 +1,1 @@
-print ("Finally")
+print ("we have one ore hour")
